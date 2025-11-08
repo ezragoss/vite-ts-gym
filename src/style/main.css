@@ -1,0 +1,8 @@
+/* @tailwind base; */
+
+.post-header {
+  background: black;
+}
+.post-body {
+  background: green;
+}
