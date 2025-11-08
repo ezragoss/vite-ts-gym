@@ -46,6 +46,7 @@
     "sass-loader": "^16.0.6",
     "tailwindcss": "^3.4.18",
     "typescript": "~5.9.0",
+    "typescript-yaml-plugin": "^1.0.11",
     "vite": "npm:rolldown-vite@latest",
     "vite-plugin-vue-devtools": "^8.0.3",
     "vitest": "^3.2.4",
