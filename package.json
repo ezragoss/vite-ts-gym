@@ -19,6 +19,7 @@
   "dependencies": {
     "@modyfi/vite-plugin-yaml": "^1.1.1",
     "@tailwindcss/postcss": "^4.1.17",
+    "js-yaml": "^4.1.0",
     "vue": "^3.5.22",
     "vue-router": "^4.6.3",
     "yaml": "^2.8.1"
@@ -26,6 +27,7 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "@tsconfig/node22": "^22.0.2",
+    "@types/js-yaml": "^4.0.9",
     "@types/jsdom": "^27.0.0",
     "@types/node": "^22.18.11",
     "@vitejs/plugin-vue": "^6.0.1",
