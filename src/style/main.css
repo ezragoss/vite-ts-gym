@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'OpenSans', sans-serif;
-  background-image: url('../resources/example_texture.jpg');
+  background-image: url('../textures/example_texture.jpg');
   background-color: rgba(225, 225, 225, 0.8);
   background-blend-mode: lighten;
 }
