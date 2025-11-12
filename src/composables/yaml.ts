@@ -1,7 +1,7 @@
 import { loadAll } from 'js-yaml'
 
 async function loadYaml(path: string): Promise<Array<Record<string, any>>> {
-  const result = await import(/* @vite-ignore */ path + '?raw')
+  const result = await import(/* @vite-ignore */ path + '?raw', { assert: { type: 'string' } })
 
   console.log(result.default)
   return (await loadAll(result.default)) as Array<Record<string, any>>
