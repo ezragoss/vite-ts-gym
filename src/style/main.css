@@ -1,8 +1,17 @@
 /* @tailwind base; */
 
-.post-header {
-  background: black;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+h1 {
+  color: rgb(183, 111, 111);
 }
-.post-body {
-  background: green;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'OpenSans', sans-serif;
+  background-image: url('../resources/example_texture.jpg');
+  background-color: rgba(225, 225, 225, 0.8);
+  background-blend-mode: lighten;
 }

@@ -3,10 +3,9 @@ import App from './App.vue'
 import router from './router'
 import '@/style/main.css'
 
-import { loadAll } from 'js-yaml'
-import docsRaw from '@/resources/posts/example_post.yaml?raw'
+import loadPost from './composables/yaml'
 
-const docs = loadAll(docsRaw)
+const docs = await loadPost('example_post')
 
 console.log(docs)
 

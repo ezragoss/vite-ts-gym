@@ -1,4 +1,13 @@
 title: Example Post
 subtitle: Example Subtitle
 documents: ['base_zine']
-body: This is the text body
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a cursus sapien, ultrices molestie enim. Nunc consectetur odio at iaculis scelerisque. Vivamus justo diam, porta sed placerat ut, aliquam sed nulla. Nulla facilisi. Nunc sodales et metus id volutpat. Nunc eget ipsum nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec mi ligula, gravida sit amet erat nec, fermentum eleifend tellus. Suspendisse maximus iaculis vestibulum. Etiam vel tristique mauris. Mauris viverra est vitae lectus ultricies, a ornare nunc efficitur. Maecenas facilisis ex elit, sed pulvinar nibh sagittis quis. Maecenas convallis purus sit amet lectus gravida tincidunt. Quisque non libero maximus, dignissim ligula rutrum, faucibus odio. Etiam sem ligula, imperdiet ac quam ac, tempor vehicula justo. Nunc scelerisque rutrum mollis.
+
+Proin mollis sem sed nisl rhoncus, nec elementum magna consequat. Morbi in sapien tristique, laoreet felis sed, fringilla magna. Curabitur mattis placerat mollis. Fusce lacus est, ornare vel pellentesque et, porttitor non risus. Vestibulum posuere mauris dui, sagittis consectetur massa maximus vel. Nulla elit ligula, iaculis elementum scelerisque sit amet, pulvinar eget sem. Morbi lobortis justo purus, sodales consectetur dolor vehicula et. Nulla viverra hendrerit venenatis. Fusce ut ullamcorper erat, eget maximus diam. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Maecenas mollis luctus erat, vitae gravida quam rhoncus sed. Donec imperdiet elit orci, pellentesque ultricies nisi aliquam vel. Aenean id ante nec tortor tempor vestibulum at eu nisi. Ut pellentesque, lacus quis euismod laoreet, enim dui rhoncus mauris, quis molestie libero quam in ipsum. In tincidunt velit magna, eu fermentum leo pretium vitae. Quisque ultrices ornare lectus ut iaculis. Duis suscipit erat purus, facilisis efficitur metus hendrerit at.
+
+Nam egestas mauris scelerisque velit tincidunt, porttitor ornare ante convallis. Nullam in nisi at turpis pellentesque facilisis. Sed ex sem, congue nec tempus ac, lobortis nec urna. Donec ultricies vitae metus et fringilla. Etiam non leo eget nisl tincidunt mattis. Praesent leo nibh, facilisis non euismod nec, imperdiet a est. Mauris tincidunt nulla ac maximus luctus.
+
+Duis nec ornare felis. Sed vitae lectus quis ligula eleifend rutrum sit amet at turpis. Nulla elementum pharetra metus ac condimentum. Fusce eu condimentum augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam tristique eleifend sodales. Quisque sit amet placerat ex, quis laoreet lorem. Nulla at velit ut ligula molestie venenatis. Cras interdum risus risus, ac scelerisque nisl dignissim a.

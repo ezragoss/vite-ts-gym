@@ -18,7 +18,9 @@ import PostMain from './components/post/PostMain.vue'
   </header>
 
   <RouterView /> -->
-  <PostMain />
+  <div id="background">
+    <PostMain :post_name="'example_post'" />
+  </div>
 </template>
 
 <style scoped>
