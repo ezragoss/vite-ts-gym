@@ -14,5 +14,6 @@ const props = defineProps(['title', 'subtitle'])
 <style>
 .header {
   background: rgba(239, 239, 239, 0.832);
+  padding-left: 2%;
 }
 </style>

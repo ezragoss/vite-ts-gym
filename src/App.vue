@@ -1,25 +1,10 @@
 <script setup lang="ts">
-// import { RouterLink, RouterView } from 'vue-router'
-import PostMain from './components/post/PostMain.vue'
+import PostMain from '@/components/post/PostMain.vue'
 </script>
 
 <template>
-  <!-- <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <PostMain />
-
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
-      </nav>
-    </div>
-  </header>
-
-  <RouterView /> -->
   <div id="background">
-    <PostMain :post_name="'example_post'" />
+    <PostMain :post_name="'main_post'" />
   </div>
 </template>
 
