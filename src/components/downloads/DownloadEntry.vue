@@ -22,9 +22,11 @@ const entryData = props.entry as Entry
   display: flex;
   flex-direction: column;
   gap: 0px;
-  border: 1px black solid;
+  /* border: 1px black solid; */
   width: fit-content;
   border-radius: 6px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.318);
+
   padding-left: 1%;
   padding-right: 2%;
 }

@@ -2,7 +2,6 @@
 import { ref, defineProps, type Ref } from 'vue'
 import PostBody from './PostBody.vue'
 import PostHeader from './PostHeader.vue'
-import DownloadEntry from '@/components/downloads/DownloadEntry.vue'
 import loadPost from '@/composables/yaml'
 import DownloadBundle from '../downloads/DownloadBundle.vue'
 
@@ -42,5 +41,6 @@ loadPost(props.post_name).then((result) => (post.value = result))
   flex-direction: column;
   gap: 2px;
   padding-left: 2%;
+  padding-right: 2%;
 }
 </style>

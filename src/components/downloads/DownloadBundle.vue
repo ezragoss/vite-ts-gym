@@ -38,9 +38,25 @@ loadDownloads(props.name).then(
   background: white;
   padding: 5px;
   padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
   width: fit-content;
-  border: 1px black solid;
   border-radius: 8px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.072);
+}
+
+h3,
+p {
+  margin: 0px;
+}
+
+h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-bottom: 10px;
 }
 
 .download-listing {
